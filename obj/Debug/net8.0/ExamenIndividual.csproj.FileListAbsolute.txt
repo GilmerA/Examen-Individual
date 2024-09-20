@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\ExamenIndividual\ExamenIndividual\bin\Debug\net8.0\ExamenIndividual.exe
+C:\Users\User\source\repos\ExamenIndividual\ExamenIndividual\bin\Debug\net8.0\ExamenIndividual.deps.json
+C:\Users\User\source\repos\ExamenIndividual\ExamenIndividual\bin\Debug\net8.0\ExamenIndividual.runtimeconfig.json
+C:\Users\User\source\repos\ExamenIndividual\ExamenIndividual\bin\Debug\net8.0\ExamenIndividual.dll
+C:\Users\User\source\repos\ExamenIndividual\ExamenIndividual\bin\Debug\net8.0\ExamenIndividual.pdb
+C:\Users\User\source\repos\ExamenIndividual\ExamenIndividual\obj\Debug\net8.0\ExamenIndividual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\ExamenIndividual\ExamenIndividual\obj\Debug\net8.0\ExamenIndividual.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\ExamenIndividual\ExamenIndividual\obj\Debug\net8.0\ExamenIndividual.AssemblyInfo.cs
+C:\Users\User\source\repos\ExamenIndividual\ExamenIndividual\obj\Debug\net8.0\ExamenIndividual.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\ExamenIndividual\ExamenIndividual\obj\Debug\net8.0\ExamenIndividual.dll
+C:\Users\User\source\repos\ExamenIndividual\ExamenIndividual\obj\Debug\net8.0\refint\ExamenIndividual.dll
+C:\Users\User\source\repos\ExamenIndividual\ExamenIndividual\obj\Debug\net8.0\ExamenIndividual.pdb
+C:\Users\User\source\repos\ExamenIndividual\ExamenIndividual\obj\Debug\net8.0\ExamenIndividual.genruntimeconfig.cache
+C:\Users\User\source\repos\ExamenIndividual\ExamenIndividual\obj\Debug\net8.0\ref\ExamenIndividual.dll
